@@ -54,6 +54,10 @@ body {
     font-size: 12px;
 }
 
+.postagens {
+    background-color: rgb(94, 94, 244);
+}
+
 #lateral {
     width: 240px;
     float: right;
@@ -116,7 +120,7 @@ h2 {
 
 h3 {
     color: whitesmoke;
-    background: rgb(151, 154, 151);
+    background: brown;
     padding: 5px;
 }
 
